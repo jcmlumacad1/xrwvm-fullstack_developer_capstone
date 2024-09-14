@@ -1,3 +1,4 @@
+# flake8: noqa
 # Uncomment the following imports before adding the Model code
 
 from django.db import models
